@@ -1,5 +1,4 @@
-# PixelDown
-Minecraft netty botter.
+# PixelDown - Netty Booter
 
 
 __I quit "minecraft botting" and decided to publish my used bot.__
