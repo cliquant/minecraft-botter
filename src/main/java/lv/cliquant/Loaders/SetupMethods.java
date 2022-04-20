@@ -17,7 +17,7 @@
    }
    
    public SelMethod setMethod(String methodName) {
-/* 26 */     return (SelMethod)methods.getOrDefault(methodName, new Join());
+    return (SelMethod)methods.getOrDefault(methodName, new Join());
    }
  }
 
