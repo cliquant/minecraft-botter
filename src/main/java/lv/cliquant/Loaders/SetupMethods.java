@@ -11,9 +11,7 @@
      methods.put("nullping", new NullPing());
      methods.put("motd", new Motd());
      methods.put("exploitbot", new CustomPayload());
-     methods.put("exploitbot2", new CustomPayloadv2());
      methods.put("tcpshield", new TCPShield());
-     methods.put("premiumkiller", new PremiumKiller());
    }
    
    public SelMethod setMethod(String methodName) {
