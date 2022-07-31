@@ -1,6 +1,6 @@
 This repo contain is deleted if want buy it contact with me.
 
-# | Cliquant public minecraft botter.
+# | Cliquant minecraft botter.
 
 # | Stats
 
